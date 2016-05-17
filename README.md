@@ -1,2 +1,2 @@
 # HelloWorld
-Initial learning sandbox
+Initial learning repository
